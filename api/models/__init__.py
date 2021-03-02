@@ -2,3 +2,4 @@
 # flake8: noqa
 from .msuser import *
 from .msorder import *
+from .msvoucher import *
