@@ -1,0 +1,1 @@
+exec(open('scripts/process_month_voucher.py').read())
